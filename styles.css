@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+}
+
+body {
+    font-family: "Helvetica Neue", "HelveticaNeue", Arial, sans-serif;
+    background-color: aquamarine;
+}
+
+.nav-bar {
+    display: inline;
+}
+
+.image-small {
+    width: 300px;
+}
+
+.image-large {
+    height: 400px;
+}
+
+br {
+    gap: 30px;
+}
